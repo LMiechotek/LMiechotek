@@ -31,4 +31,4 @@
 
 ## 🌐 Contato
 
-Você pode me encontrar em outras redes: [LinkedIn](https://linkedin.com) 
+Você pode me encontrar em outras redes: [LinkedIn](https://www.linkedin.com/in/luciana-miechotek-38497b233/) 
