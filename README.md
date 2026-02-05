@@ -1,34 +1,57 @@
-# Bem-vindo ao meu Perfil do GitHub! 👋
+# 👋 Oi, eu sou a Luciana
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Olá!+Eu+sou+a+Luciana!;Desenvolvedora+Hardware;Apaixonada+por+tecnologia)
+> **“Se funciona, não mexe (mentira, eu mexo)”**
 
+Sou desenvolvedora focada em **automação**, integração **hardware + software**  
+e aquele tipo de código que nasce de problemas reais — não só de tutorial.
 
----
-
-## 🛠 Minhas Habilidades
-
-- Arduino
-- Raspberry Pi
-- Python
-- C
-- C++
-- PHP
-- Laravel
+Atualmente exploro:
+- 🏭 Automação e sistemas inspirados em ambientes industriais
+- ⚙️ Integração com hardware (Arduino, Raspberry Pi, sensores, comunicação serial)
+- 🐍 Python para automação, análise e interfaces
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LMiechotek&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LMiechotek&show_icons=true&theme=radical)
-
----
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LMiechotek&theme=radical)
+## 🧠 Como eu penso código
+- Código simples > código bonito  
+- Funcionar > impressionar  
+- Documentar > sofrer depois  
+- Se não quebrou ainda, provavelmente vai quebrar 😅
 
 ---
 
-## 🌐 Contato
+## 🧪 Laboratório (aka coisas que eu testo)
+- Simulações de sistemas industriais  
+- Comunicação serial e coleta de dados  
+- Scripts que começaram com:  
+  > “isso dava pra automatizar…”
 
-Você pode me encontrar em outras redes: [LinkedIn](https://www.linkedin.com/in/luciana-miechotek-38497b233/) 
+---
+
+## 🔧 Tecnologias que aparecem por aqui
+![Python](https://img.shields.io/badge/Python-automation-blue)
+![Arduino](https://img.shields.io/badge/Arduino-hardware-green)
+
+---
+
+## 📊 Estatísticas 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LMiechotek&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=LMiechotek&theme=tokyonight)
+
+> Sim, tem bastante Python.  
+> Automação vicia.
+
+---
+
+## 📌 Projetos em destaque
+Dá uma olhada nos repositórios fixados 👇  
+Eles contam melhor a história do que qualquer texto aqui.
+
+---
+
+## ☕ Estado atual do sistema
+```text
+Status: aprendendo
+Modo: curiosa
+Café: necessário
+Debug: constante
