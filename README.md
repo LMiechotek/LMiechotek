@@ -43,11 +43,6 @@ Atualmente exploro:
 
 ---
 
-## 📌 Projetos em destaque
-Dá uma olhada nos repositórios fixados 👇  
-Eles contam melhor a história do que qualquer texto aqui.
-
----
 
 ## ☕ Estado atual do sistema
 ```text
