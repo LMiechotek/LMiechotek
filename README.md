@@ -2,51 +2,72 @@
 
 > **“Se funciona, não mexe (mentira, eu mexo)”**
 
-Sou desenvolvedora focada em **automação**, integração **hardware + software**  
-e aquele tipo de código que nasce de problemas reais — não só de tutorial.
-
-Atualmente exploro:
-- 🏭 Automação e sistemas inspirados em ambientes industriais
-- ⚙️ Integração com hardware (Arduino, Raspberry Pi, sensores, comunicação serial)
-- 🐍 Python para automação, análise e interfaces
-
 ---
 
-## 🧠 Como eu penso código
-- Código simples > código bonito  
-- Funcionar > impressionar  
-- Documentar > sofrer depois  
-- Se não quebrou ainda, provavelmente vai quebrar 😅
-
----
-
-## 🧪 Laboratório (aka coisas que eu testo)
-- Simulações de sistemas industriais  
-- Comunicação serial e coleta de dados  
-- Scripts que começaram com:  
-  > “isso dava pra automatizar…”
-
----
-
-## 🔧 Tecnologias que aparecem por aqui
-![Python](https://img.shields.io/badge/Python-automation-blue)
-![Arduino](https://img.shields.io/badge/Arduino-hardware-green)
-
----
-
-## 📊 Estatísticas 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LMiechotek&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=LMiechotek&theme=tokyonight)
-
-> Sim, tem bastante Python.  
-> Automação vicia.
-
----
-
-
-## ☕ Estado atual do sistema
+## 🖥️ Boot do sistema
 ```text
-Status: aprendendo
-Modo: curiosa
-Café: necessário
-Debug: constante
+[    ] Inicializando perfil...
+[ OK ] Curiosidade carregada
+[ OK ] Modo automação ativado
+[ OK ] Conectando hardware
+[ OK ] Sincronizando cérebro ↔ código
+[ OK ] Sistema operacional: LUC-DEV v1.0
+```
+---
+
+🏭 Automação e sistemas inspirados em ambientes industriais
+⚙️ Integração com hardware
+   ├─ Arduino
+   ├─ Raspberry Pi
+   ├─ Sensores
+   └─ Comunicação serial
+🐍 Python para automação, análise e interfaces
+
+---
+
+Código simples   > código bonito
+Funcionar        > impressionar
+Documentar       > sofrer depois
+
+---
+
+▰▰▰▰▰▰▰▱▱▱ Simulações de sistemas industriais
+
+▰▰▰▰▰▰▱▱▱▱ Comunicação serial e coleta de dados
+
+▰▰▰▰▰▰▰▰▱▱ Scripts que começaram com:
+                "isso dava pra automatizar…"
+          
+---
+
+🐍 Python
+
+⚙️ Arduino
+
+🍓 Raspberry Pi
+
+📟 Sensores
+
+🔗 Comunicação serial
+
+---
+
+Status......: aprendendo
+
+Modo........: curiosa
+
+Café........: necessário
+
+Debug.......: constante
+
+Uptime......: aumentando
+
+---
+
+$ git status
+
+On branch main
+
+Your profile is a work in progress
+
+
